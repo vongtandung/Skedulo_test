@@ -1,0 +1,15 @@
+.user-table-wrapper {
+    min-width: 80%;
+}
+
+.user-table-wrapper .header {
+    height: 50px;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}

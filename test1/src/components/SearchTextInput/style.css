@@ -1,0 +1,11 @@
+.search-text-input-wrapper {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    min-width: 80%;
+}
+
+.search-text-input-wrapper input {
+    height: 30px;
+    width: 50%;
+}
